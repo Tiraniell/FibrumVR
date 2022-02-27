@@ -85,6 +85,8 @@
      <Compile Include="Assets\FibrumSDK\FibrumSDK\Scenes\demoMaterials\GUIuserScript.cs" />
      <Compile Include="Assets\FibrumSDK\FibrumSDK\Scenes\demoMaterials\JoystickSetupDemo.cs" />
      <Compile Include="Assets\scripts\CharController.cs" />
+     <Compile Include="Assets\scripts\ObstacleSpawner.cs" />
+     <Compile Include="Assets\scripts\levelGenerator.cs" />
      <None Include="Assets\FibrumSDK\FibrumSDK\Fibrum\Mobile Transparent Vertex Color.shader" />
      <None Include="Assets\FibrumSDK\FibrumSDK\Fibrum\VR_GUI\MaskedCutOutTex.shader" />
      <None Include="Assets\FibrumSDK\FibrumSDK\Fibrum\LensCorrection\LensCorrection.shader" />
